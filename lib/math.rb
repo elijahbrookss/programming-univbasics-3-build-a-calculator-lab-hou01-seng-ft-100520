@@ -1,3 +1,5 @@
+
+
 def addition(num1, num2)
   return num1+num2
 end
@@ -19,5 +21,5 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  return num**.5
+  return 
 end
